@@ -1,0 +1,91 @@
+HTTrack3.49-5 launched on Tue, 26 Mar 2024 18:35:41 at https://oficial-kmspico.com
+(httrack https://oficial-kmspico.com )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:36:44	Error: 	"Method Not Allowed" (405) at link https://oficial-kmspico.com/xmlrpc.php (from https://oficial-kmspico.com/)
+18:38:52	Warning: 	Found for https://oficial-kmspico.com/download/winrar-archiver-zip/
+18:38:52	Warning: 	File has moved from https://oficial-kmspico.com/download/winrar-archiver-zip/ to https://activ-load.net/software/WIN-RAR.zip
+18:39:22	Warning: 	Moved Permanently for https://oficial-kmspico.com/uninstall-kmspico-from-computer/
+18:39:22	Warning: 	File has moved from https://oficial-kmspico.com/uninstall-kmspico-from-computer/ to https://oficial-kmspico.com/desinstalar-kmspico-from-computer/
+18:40:33	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=39
+18:40:33	Warning: 	File has moved from https://oficial-kmspico.com/?p=39 to https://oficial-kmspico.com/about-us/
+18:40:33	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=9
+18:40:33	Warning: 	File has moved from https://oficial-kmspico.com/?p=9 to https://oficial-kmspico.com/contact-us/
+18:40:33	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=3
+18:40:33	Warning: 	File has moved from https://oficial-kmspico.com/?p=3 to https://oficial-kmspico.com/privacy-policy/
+18:40:33	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=58
+18:40:33	Warning: 	File has moved from https://oficial-kmspico.com/?p=58 to https://oficial-kmspico.com/dmca/
+18:40:33	Warning: 	Link https://oficial-kmspico.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+18:40:33	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=595
+18:40:33	Warning: 	File has moved from https://oficial-kmspico.com/?p=595 to https://oficial-kmspico.com/download-kmsauto-activator/
+18:40:40	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=593
+18:40:40	Warning: 	File has moved from https://oficial-kmspico.com/?p=593 to https://oficial-kmspico.com/windows-7-loader/
+18:40:49	Error: 	"Not Found" (404) at link https://oficial-kmspico.com/windows-10-iso-download/ (from https://oficial-kmspico.com/windows-7-loader/)
+18:40:49	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=590
+18:40:49	Warning: 	File has moved from https://oficial-kmspico.com/?p=590 to https://oficial-kmspico.com/microsoft-toolkit-download/
+18:40:54	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=585
+18:40:54	Warning: 	File has moved from https://oficial-kmspico.com/?p=585 to https://oficial-kmspico.com/kmspico-portable/
+18:41:01	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=646
+18:41:01	Warning: 	File has moved from https://oficial-kmspico.com/?p=646 to https://oficial-kmspico.com/clave-producto-windows-10/
+18:41:05	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=171
+18:41:05	Warning: 	File has moved from https://oficial-kmspico.com/?p=171 to https://oficial-kmspico.com/download-file/
+18:41:05	Warning: 	Found for https://oficial-kmspico.com/download/kmspico-10-2-0.zip/
+18:41:05	Warning: 	File has moved from https://oficial-kmspico.com/download/kmspico-10-2-0.zip/ to https://activ-load.net/activators/KMSpico.zip
+18:41:05	Error: 	"Not Found" (404) at link https://oficial-kmspico.com/download-file/KMSpico.zip (from https://oficial-kmspico.com/download-file/?a1=https://oficial-kmspico.com/download/kmspico-10-2-0-zip/&b1=KMSpico.zip&c1=405310&d1=4%20MB&e1=10.2.0)
+18:41:22	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=609
+18:41:22	Warning: 	File has moved from https://oficial-kmspico.com/?p=609 to https://oficial-kmspico.com/download-kmspico-windows-10-activator/
+18:41:22	Warning: 	Moved Permanently for https://oficial-kmspico.com/clave-de-producto-de-windows-10-para-todas-las-ediciones-2020/
+18:41:22	Warning: 	File has moved from https://oficial-kmspico.com/clave-de-producto-de-windows-10-para-todas-las-ediciones-2020/ to https://oficial-kmspico.com/clave-producto-windows-10/
+18:41:22	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=136
+18:41:22	Warning: 	File has moved from https://oficial-kmspico.com/?p=136 to https://oficial-kmspico.com/what-is-password-to-unzip-activator/
+18:41:25	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=607
+18:41:25	Warning: 	File has moved from https://oficial-kmspico.com/?p=607 to https://oficial-kmspico.com/how-to-activate-windows-10/
+18:41:25	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=612
+18:41:25	Warning: 	File has moved from https://oficial-kmspico.com/?p=612 to https://oficial-kmspico.com/kms-activator-for-office-2016/
+18:41:31	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=768
+18:41:31	Warning: 	File has moved from https://oficial-kmspico.com/?p=768 to https://oficial-kmspico.com/windows-7-product-key/
+18:41:31	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=597
+18:41:31	Warning: 	File has moved from https://oficial-kmspico.com/?p=597 to https://oficial-kmspico.com/windows-7-activator/
+18:41:31	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=582
+18:41:31	Warning: 	File has moved from https://oficial-kmspico.com/?p=582 to https://oficial-kmspico.com/removewat/
+18:41:33	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=587
+18:41:33	Warning: 	File has moved from https://oficial-kmspico.com/?p=587 to https://oficial-kmspico.com/kmsauto-net/
+18:41:33	Error: 	"Not Found" (404) at link https://oficial-kmspico.com/windows-7-iso-download/ (from https://oficial-kmspico.com/kmsauto-net/)
+18:41:35	Error: 	"Not Found" (404) at link https://oficial-kmspico.com/wp-content/themes/jannah/assets/ilightbox/dark-skin/ilightbox/closedhand.cur (from https://oficial-kmspico.com/wp-content/themes/jannah/assets/ilightbox/dark-skin/skin.css)
+18:41:35	Warning: 	Moved Permanently for https://oficial-kmspico.com/author/fena/
+18:41:35	Warning: 	File has moved from https://oficial-kmspico.com/author/fena/ to https://oficial-kmspico.com
+18:41:35	Warning: 	Found for https://oficial-kmspico.com/download/kmsauto-portable.zip/
+18:41:35	Warning: 	File has moved from https://oficial-kmspico.com/download/kmsauto-portable.zip/ to https://activ-load.net/activators/KMSAuto-Net-Portable.zip
+18:41:35	Error: 	"Not Found" (404) at link https://oficial-kmspico.com/download-file/KMSAuto-Portable.zip (from https://oficial-kmspico.com/download-file/?a1=https://oficial-kmspico.com/download/kmsauto-portable-zip/&b1=KMSAuto-Portable.zip&c1=110422&d1=31%20MB&e1=1.5.9)
+18:41:52	Warning: 	Found for https://oficial-kmspico.com/download/windows-7-loader.zip/
+18:41:52	Warning: 	File has moved from https://oficial-kmspico.com/download/windows-7-loader.zip/ to https://activ-load.net/activators/windows-loader-v2.2.2.zip
+18:41:52	Error: 	"Not Found" (404) at link https://oficial-kmspico.com/download-file/windows-7-loader.zip (from https://oficial-kmspico.com/download-file/?a1=https://oficial-kmspico.com/download/windows-7-loader-zip/&b1=windows-7-loader.zip&c1=45203&d1=2%20MB&e1=2.2.2)
+18:41:52	Warning: 	Found for https://oficial-kmspico.com/download/ms-toolkit-265.zip/
+18:41:52	Warning: 	File has moved from https://oficial-kmspico.com/download/ms-toolkit-265.zip/ to https://activ-load.net/activators/MicrosoftToolkit.zip
+18:41:52	Error: 	"Not Found" (404) at link https://oficial-kmspico.com/download-file/ms-toolkit.zip (from https://oficial-kmspico.com/download-file/?a1=https://oficial-kmspico.com/download/ms-toolkit-265-zip/&b1=ms-toolkit.zip&c1=11983&d1=13%20MB&e1=2.7.3)
+18:41:52	Warning: 	Found for https://oficial-kmspico.com/download/kmspico-portable.zip/
+18:41:52	Warning: 	File has moved from https://oficial-kmspico.com/download/kmspico-portable.zip/ to https://activ-load.net/activators/KMSpico.zip
+18:41:52	Error: 	"Not Found" (404) at link https://oficial-kmspico.com/download-file/KMSPico-portable.zip (from https://oficial-kmspico.com/download-file/?a1=https://oficial-kmspico.com/download/kmspico-portable-zip/&b1=KMSPico-portable.zip&c1=37568&d1=4%20MB&e1=10.2.0)
+18:41:52	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=1007
+18:41:52	Warning: 	File has moved from https://oficial-kmspico.com/?p=1007 to https://oficial-kmspico.com/how-to-disable-windows-defender-in-windows-7/
+18:41:52	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=1004
+18:41:52	Warning: 	File has moved from https://oficial-kmspico.com/?p=1004 to https://oficial-kmspico.com/how-to-disable-windows-defender-in-windows-8-1/
+18:41:52	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=997
+18:41:52	Warning: 	File has moved from https://oficial-kmspico.com/?p=997 to https://oficial-kmspico.com/defender-windows-10/
+18:41:52	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=600
+18:41:52	Warning: 	File has moved from https://oficial-kmspico.com/?p=600 to https://oficial-kmspico.com/desinstalar-kmspico-from-computer/
+18:41:52	Warning: 	Found for https://oficial-kmspico.com/download/removewat.zip/
+18:41:52	Warning: 	File has moved from https://oficial-kmspico.com/download/removewat.zip/ to https://activ-load.net/activators/removewat.zip
+18:41:52	Error: 	"Not Found" (404) at link https://oficial-kmspico.com/download-file/RemoveWAT.zip (from https://oficial-kmspico.com/download-file/?a1=https://oficial-kmspico.com/download/removewat-zip/&b1=RemoveWAT.zip&c1=5787&d1=9%20MB&e1=2.2.8)
+18:41:52	Warning: 	Found for https://oficial-kmspico.com/download/kmsauto-net-portable.zip/
+18:41:52	Warning: 	File has moved from https://oficial-kmspico.com/download/kmsauto-net-portable.zip/ to https://load-files.net/KMSAuto-Net-Portable.zip
+18:41:52	Error: 	"Not Found" (404) at link https://oficial-kmspico.com/download-file/KMSAuto-Net-Portable.zip (from https://oficial-kmspico.com/download-file/?a1=https://oficial-kmspico.com/download/kmsauto-net-portable-zip/&b1=KMSAuto-Net-Portable.zip&c1=15364&d1=15%20MB&e1=1.5.6)
+18:41:52	Warning: 	Moved Permanently for https://oficial-kmspico.com/?p=1242
+18:41:52	Warning: 	File has moved from https://oficial-kmspico.com/?p=1242 to https://oficial-kmspico.com/windows-11-activador/
+
+HTTrack Website Copier/3.49-5 mirror complete in 6 minutes 11 seconds : 404 links scanned, 358 files written (20455891 bytes overall) [15441599 bytes received at 41621 bytes/sec], 8582128 bytes transferred using HTTP compression in 179 files, ratio 28%, 31.0 requests per connection
+(11 errors, 69 warnings, 0 messages)
